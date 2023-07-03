@@ -20,7 +20,7 @@
 <div align="center"><i>
   
  - 👩🏻‍🎓 Computer Science with Data Analytics student at KPRCAS.
- - I'm a Goal-driven 🎯 and passionate Machine Learning and Web Development.
+ - I'm a Goal-driven 🎯 and passionate IN Machine Learning and Web Development.
  - ✨ I am a Web Development Enthusiast who wish to explore more and keen to contribute more to a cause.
   </i></div>
 <hr> 
