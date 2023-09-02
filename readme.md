@@ -6,7 +6,6 @@
   <img align='right' src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100" height="100" >
 
 <hr> 
-![Updated Badge](https://komarev.com/ghpvc/?username=JagadeeswaranKB&label=Profile%20views&color=0e75b6&style=flat) ![Updated Badge](https://badges.pufler.dev/commits/yearly/JagadeeswaranKB)  [![Repos Badge](https://badges.pufler.dev/repos/JagadeeswaranKB)](https://badges.pufler.dev)
 
 <div align="center">
   <h5> LET'S GET CONNECTED </h5>
