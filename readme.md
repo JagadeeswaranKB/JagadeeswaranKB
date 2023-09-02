@@ -25,7 +25,7 @@
 <div align="center">
   <h5> TAKE A LOOK AT ON MY PORTFOLIO AND OTHER PAGES TOO...</h5>
 
-  [![Badge](https://img.shields.io/badge/PORTFOLIO-20BEFF?logo=portfolio&logoColor=fff&style=flat)](https://jagadeeswarankb.github.io/portfolio) 
+  [![Badge](https://img.shields.io/badge/PORTFOLIO-20BEFF?logo=portfolio&logoColor=fff&style=flat)](https://jagadeeswarankb.github.io) 
    [![Badge](https://img.shields.io/badge/KAGGLE-20BEFF?logo=kaggle&logoColor=fff&style=flat)](https://www.kaggle.com/jagadeeswarankb)
    [![Badge](https://img.shields.io/badge/GITHUB-181717?logo=github&logoColor=fff&style=flat)](https://github.com/jagadeeswarankb)
    
