@@ -2,8 +2,7 @@
         <h3><p align="center"><b>Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">,  I'm Jagadeeswaran K B!</b><h3></p>
   <hr></p>
   
-  ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=THANKS+FOR+VISITING+MY+PROFILE.)
-  <img align='right' src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100" height="100" >
+   ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=THANKS+FOR+VISITING+MY+PROFILE.)
 
 <hr> 
 
@@ -27,7 +26,7 @@
 
   [![Badge](https://img.shields.io/badge/PORTFOLIO-20BEFF?logo=portfolio&logoColor=fff&style=flat)](https://jagadeeswarankb.github.io) 
    [![Badge](https://img.shields.io/badge/KAGGLE-20BEFF?logo=kaggle&logoColor=fff&style=flat)](https://www.kaggle.com/jagadeeswarankb)
-   [![Badge](https://img.shields.io/badge/GITHUB-181717?logo=github&logoColor=fff&style=flat)](https://github.com/jagadeeswarankb)
+   [![Badge](https://img.shields.io/badge/GITHUB-20BEFF?logo=github&logoColor=fff&style=flat)](https://github.com/jagadeeswarankb)
    
 </div>
 <hr>
@@ -47,6 +46,7 @@
    ![Generic badge](https://img.shields.io/badge/JAVA-3670A0?logo=java&logoColor=fff&style=flat)
    ![Generic badge](https://img.shields.io/badge/HTML5-%23E34F26?logo=html5&logoColor=fff&style=flat)
    ![Generic badge](https://img.shields.io/badge/CSS3-%2338B2AC?logo=css3&logoColor=fff&style=flat)
+   ![Generic badge](https://img.shields.io/badge/JAVASCRIPT-%2338B2AC?logo=javascript&logoColor=fff&style=flat)
 
 <h5 align="left"> 📈 GITHUB STATS</h5>
   
